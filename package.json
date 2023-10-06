@@ -1,0 +1,20 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "learn javascript patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run blabla"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/patterns"
+  },
+  "keywords": [
+    "javascript",
+    "pattern",
+    "nodejs"
+  ],
+  "author": "ryfazrin",
+  "license": "ISC"
+}
